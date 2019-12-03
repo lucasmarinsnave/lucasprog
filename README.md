@@ -5,4 +5,4 @@ Exemplos de Aplicações em Python
 Para teste e uso prático
 
 Lucas Marins
-lucasmarins.obstinar.com.br
+www.lucasmarins.obstinar.com.br
