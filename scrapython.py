@@ -1,6 +1,6 @@
 
-## Consulta por CNPJ para extrair e EMAIL de site de listagem de cnpj via Python e BeautifulSoup
-## Site exemplo https://cnpj.biz/ mas pode ser outro
+## Consulta por CNPJ para extrair EMAIL de site de listagem de cnpj's via Python e BeautifulSoup
+## Site exemplo https://cnpj.biz/ mas pode ser outro pois rotina busca link 'mailto:'
 
 from bs4 import BeautifulSoup
 import urllib.request
