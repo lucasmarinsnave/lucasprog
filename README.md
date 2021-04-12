@@ -8,4 +8,4 @@ Para teste e uso prático
 *
 
 Lucas Marins
-www.lucasmarins.obstinar.com.br
+http://lucasmarins.obstinar.com.br
